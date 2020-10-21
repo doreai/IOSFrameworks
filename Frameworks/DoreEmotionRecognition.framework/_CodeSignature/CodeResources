@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/DoreEmotionRecognition-Swift.h</key>
 		<data>
-		OeNXI/1CX2uyWVTY2ACyVhHtdZU=
+		r3nb+Ddj8sHGvdNUuQfdPUrqL+g=
 		</data>
 		<key>Headers/DoreEmotionRecognition.h</key>
 		<data>
@@ -14,23 +14,39 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		PSHMeXTEIG+b8IKkn+Rv6pTpd+c=
+		oFGGoDODXR+ZfGSb80zq04jkjig=
+		</data>
+		<key>Modules/DoreEmotionRecognition.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<data>
+		0+2h80FQR2RFlwjVXVUU7imHvyQ=
+		</data>
+		<key>Modules/DoreEmotionRecognition.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<data>
+		0+2h80FQR2RFlwjVXVUU7imHvyQ=
 		</data>
 		<key>Modules/DoreEmotionRecognition.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		LV0yN/AQvDU1pWqm4ijDvHQRKsc=
+		TnAZ3F5CmiO28FQ9Ur8uF4lyafk=
+		</data>
+		<key>Modules/DoreEmotionRecognition.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		2WdTGL2JgOy+S8Zg16p6aILzsi4=
 		</data>
 		<key>Modules/DoreEmotionRecognition.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Hl8Cy+joEAKFW9ool2x4LrPE5wM=
+		0FGiW58QonFmCtWBLRdno0ucUEM=
 		</data>
 		<key>Modules/DoreEmotionRecognition.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		LV0yN/AQvDU1pWqm4ijDvHQRKsc=
+		TnAZ3F5CmiO28FQ9Ur8uF4lyafk=
+		</data>
+		<key>Modules/DoreEmotionRecognition.swiftmodule/arm64.swiftinterface</key>
+		<data>
+		2WdTGL2JgOy+S8Zg16p6aILzsi4=
 		</data>
 		<key>Modules/DoreEmotionRecognition.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		Hl8Cy+joEAKFW9ool2x4LrPE5wM=
+		0FGiW58QonFmCtWBLRdno0ucUEM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,7 +63,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			l/ZiFbwp7nq0qLBi0GWw5CDLEX2A7nqs38Hmwlik5l0=
+			JZezUOSyJLFj2T6RoQobxId8FSL0cd78yNvSILV85A4=
 			</data>
 		</dict>
 		<key>Headers/DoreEmotionRecognition.h</key>
@@ -57,32 +73,60 @@
 			RZCJbGUqUBjw9Yq58iljGb38+CKIBj133J+lq+OYLkI=
 			</data>
 		</dict>
+		<key>Modules/DoreEmotionRecognition.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SiO9dqeHarlG2YShUltAF42ulrCRL/0bl5I2ccZ1uII=
+			</data>
+		</dict>
+		<key>Modules/DoreEmotionRecognition.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SiO9dqeHarlG2YShUltAF42ulrCRL/0bl5I2ccZ1uII=
+			</data>
+		</dict>
 		<key>Modules/DoreEmotionRecognition.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Al7dbLyTcTTTujGlKbXeMQR6OqXHJr6lERAxeIXq1zo=
+			Ap4U+BdB6F5sSetUfMG6CcNzNuB83kdI5yPa7/hiLww=
+			</data>
+		</dict>
+		<key>Modules/DoreEmotionRecognition.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mJs9Q2svyjTtkG+ZLAjKyQeNYMOd1j5Yno3EzW7DuJs=
 			</data>
 		</dict>
 		<key>Modules/DoreEmotionRecognition.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+vL2nY5naMlfDCPqhg35dn5QYg9YBIrfFiG3NWzsKU4=
+			ARPkZ6vSG/FOxB//nqaffyMFLwKJ3KOdLWnDzEffStM=
 			</data>
 		</dict>
 		<key>Modules/DoreEmotionRecognition.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Al7dbLyTcTTTujGlKbXeMQR6OqXHJr6lERAxeIXq1zo=
+			Ap4U+BdB6F5sSetUfMG6CcNzNuB83kdI5yPa7/hiLww=
+			</data>
+		</dict>
+		<key>Modules/DoreEmotionRecognition.swiftmodule/arm64.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mJs9Q2svyjTtkG+ZLAjKyQeNYMOd1j5Yno3EzW7DuJs=
 			</data>
 		</dict>
 		<key>Modules/DoreEmotionRecognition.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+vL2nY5naMlfDCPqhg35dn5QYg9YBIrfFiG3NWzsKU4=
+			ARPkZ6vSG/FOxB//nqaffyMFLwKJ3KOdLWnDzEffStM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
