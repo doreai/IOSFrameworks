@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/DoreCartoon-Swift.h</key>
 		<data>
-		5J9tgPldJ7v1rhWMhlvQQzLBhFo=
+		ftlV1a6j92CCCkmAtI73MOWn/oE=
 		</data>
 		<key>Headers/DoreCartoon.h</key>
 		<data>
@@ -14,39 +14,39 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		yhy4HkwHyfCvvXWGhW9uF8nAubI=
+		U9JV66sdRTYy62Gv+C8TyvB2/dI=
 		</data>
 		<key>Modules/DoreCartoon.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		8vYwsxGEVKk84ScAZEkBxdvn+q8=
+		yBZBS1orgTOu0Y44S4FdGvtjXHY=
 		</data>
 		<key>Modules/DoreCartoon.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		8vYwsxGEVKk84ScAZEkBxdvn+q8=
+		yBZBS1orgTOu0Y44S4FdGvtjXHY=
 		</data>
 		<key>Modules/DoreCartoon.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		UHKZGl4KVmuENqjgh/8fpBdAv60=
+		IJF3+brJhyp4sk5If5cJ0SdpL+s=
 		</data>
 		<key>Modules/DoreCartoon.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Jb3A9sC6R6HCjXWMX5bzNsHZZg4=
+		w+YAFtyPTGjYjy36w5GcmfHkHHo=
 		</data>
 		<key>Modules/DoreCartoon.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		srGod1TUWKwu2KVqkyuAWjQmoTU=
+		0YI3ERmLudcAaWsU9kSJe1i+bKQ=
 		</data>
 		<key>Modules/DoreCartoon.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		UHKZGl4KVmuENqjgh/8fpBdAv60=
+		IJF3+brJhyp4sk5If5cJ0SdpL+s=
 		</data>
 		<key>Modules/DoreCartoon.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		Jb3A9sC6R6HCjXWMX5bzNsHZZg4=
+		w+YAFtyPTGjYjy36w5GcmfHkHHo=
 		</data>
 		<key>Modules/DoreCartoon.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		srGod1TUWKwu2KVqkyuAWjQmoTU=
+		0YI3ERmLudcAaWsU9kSJe1i+bKQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -63,7 +63,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kicJBCqFExmYJtWYmveB84j7eTEv2dewf7NOEKlJD+g=
+			NKwY41cf0wKFKESTDUrbCEVsyZcpYeZSdLXRkIr/DHs=
 			</data>
 		</dict>
 		<key>Headers/DoreCartoon.h</key>
@@ -77,56 +77,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GHBdKPiRBDpW+j2YwYtn5awLq0kmxptzi0DDQXZjbx4=
+			1CRAdaVLNwXX3pV6iLjW12wEnVdAFBdUc3K0ayrgEWk=
 			</data>
 		</dict>
 		<key>Modules/DoreCartoon.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GHBdKPiRBDpW+j2YwYtn5awLq0kmxptzi0DDQXZjbx4=
+			1CRAdaVLNwXX3pV6iLjW12wEnVdAFBdUc3K0ayrgEWk=
 			</data>
 		</dict>
 		<key>Modules/DoreCartoon.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0iSwLhQPEGbRK2Rkpe5ozzkTtpfpfX48Toql8t1aqf8=
+			tg9VL3xxojR6bifFdTkM1pvSzGFZZxnIGtuSoQg/9tI=
 			</data>
 		</dict>
 		<key>Modules/DoreCartoon.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FfQOwdQrkkHkUwRNmvL5VT6D/vWKso9ynr/yH3+T29I=
+			3kyQKlxnbg0y8VBpB9UHXNNm/fPT3QSbxfBmNHESxOk=
 			</data>
 		</dict>
 		<key>Modules/DoreCartoon.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			em2hHl2h5QyEgtMbHvAunVzNMfQJXwDpxCRhwUqEM8k=
+			MmRx9vd/eba/5egd8hJ7chR4WFyWqm/MJ+NiijGhV2c=
 			</data>
 		</dict>
 		<key>Modules/DoreCartoon.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0iSwLhQPEGbRK2Rkpe5ozzkTtpfpfX48Toql8t1aqf8=
+			tg9VL3xxojR6bifFdTkM1pvSzGFZZxnIGtuSoQg/9tI=
 			</data>
 		</dict>
 		<key>Modules/DoreCartoon.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FfQOwdQrkkHkUwRNmvL5VT6D/vWKso9ynr/yH3+T29I=
+			3kyQKlxnbg0y8VBpB9UHXNNm/fPT3QSbxfBmNHESxOk=
 			</data>
 		</dict>
 		<key>Modules/DoreCartoon.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			em2hHl2h5QyEgtMbHvAunVzNMfQJXwDpxCRhwUqEM8k=
+			MmRx9vd/eba/5egd8hJ7chR4WFyWqm/MJ+NiijGhV2c=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
