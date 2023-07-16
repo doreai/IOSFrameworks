@@ -1,6 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)
-// swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name DoreCartoon
+// swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
+// swift-module-flags: -target x86_64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name DoreCartoon
+// swift-module-flags-ignorable: -enable-bare-slash-regex
 import Accelerate
 import CoreImage
 import CoreML
@@ -10,6 +11,7 @@ import Foundation
 import Swift
 import UIKit
 import _Concurrency
+import _StringProcessing
 public class CartoonManager {
   public init()
   public enum CartoonVariantType : Swift.String {
@@ -78,6 +80,7 @@ extension CoreML.MLMultiArray {
   public func cgImage(min: Swift.Double = 0, max: Swift.Double = 255, channel: Swift.Int? = nil, axes: (Swift.Int, Swift.Int, Swift.Int)? = nil) -> CoreGraphics.CGImage?
   public func toRawBytes<T>(min: T, max: T, channel: Swift.Int? = nil, axes: (Swift.Int, Swift.Int, Swift.Int)? = nil) -> (bytes: [Swift.UInt8], width: Swift.Int, height: Swift.Int, channels: Swift.Int)? where T : DoreCartoon.MultiArrayType
 }
+public func cartclamp<T>(_ x: T, min: T, max: T) -> T where T : Swift.Comparable
 public func createCGImage(fromFloatArray features: CoreML.MLMultiArray, min: Swift.Float = 0, max: Swift.Float = 255) -> CoreGraphics.CGImage?
 extension CoreML.MLMultiArray {
   public func image(min: Swift.Double = 0, max: Swift.Double = 255, channel: Swift.Int? = nil, axes: (Swift.Int, Swift.Int, Swift.Int)? = nil) -> UIKit.UIImage?

@@ -9,7 +9,7 @@
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
-        "moduleName": "DoreFXCartoon",
+        "moduleName": "DoreCartoon",
         "declAttributes": [
           "RawDocComment"
         ]
@@ -19,21 +19,14 @@
         "name": "DoreCoreAI",
         "printedName": "DoreCoreAI",
         "declKind": "Import",
-        "moduleName": "DoreFXCartoon"
+        "moduleName": "DoreCartoon"
       },
       {
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
-        "moduleName": "DoreFXCartoon"
-      },
-      {
-        "kind": "Import",
-        "name": "CoreML",
-        "printedName": "CoreML",
-        "declKind": "Import",
-        "moduleName": "DoreFXCartoon"
+        "moduleName": "DoreCartoon"
       },
       {
         "kind": "TypeDecl",
@@ -48,14 +41,14 @@
               {
                 "kind": "TypeNominal",
                 "name": "CartoonManager",
-                "printedName": "DoreFXCartoon.CartoonManager",
-                "usr": "s:13DoreFXCartoon14CartoonManagerC"
+                "printedName": "DoreCartoon.CartoonManager",
+                "usr": "s:11DoreCartoon0B7ManagerC"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:13DoreFXCartoon14CartoonManagerCACycfc",
-            "mangledName": "$s13DoreFXCartoon14CartoonManagerCACycfc",
-            "moduleName": "DoreFXCartoon",
+            "usr": "s:11DoreCartoon0B7ManagerCACycfc",
+            "mangledName": "$s11DoreCartoon0B7ManagerCACycfc",
+            "moduleName": "DoreCartoon",
             "declAttributes": [
               "AccessControl"
             ],
@@ -74,24 +67,24 @@
                   {
                     "kind": "TypeFunc",
                     "name": "Function",
-                    "printedName": "(DoreFXCartoon.CartoonManager.CartoonVariantType.Type) -> DoreFXCartoon.CartoonManager.CartoonVariantType",
+                    "printedName": "(DoreCartoon.CartoonManager.CartoonVariantType.Type) -> DoreCartoon.CartoonManager.CartoonVariantType",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "CartoonVariantType",
-                        "printedName": "DoreFXCartoon.CartoonManager.CartoonVariantType",
-                        "usr": "s:13DoreFXCartoon14CartoonManagerC0C11VariantTypeO"
+                        "printedName": "DoreCartoon.CartoonManager.CartoonVariantType",
+                        "usr": "s:11DoreCartoon0B7ManagerC0B11VariantTypeO"
                       },
                       {
                         "kind": "TypeNominal",
                         "name": "Metatype",
-                        "printedName": "DoreFXCartoon.CartoonManager.CartoonVariantType.Type",
+                        "printedName": "DoreCartoon.CartoonManager.CartoonVariantType.Type",
                         "children": [
                           {
                             "kind": "TypeNominal",
                             "name": "CartoonVariantType",
-                            "printedName": "DoreFXCartoon.CartoonManager.CartoonVariantType",
-                            "usr": "s:13DoreFXCartoon14CartoonManagerC0C11VariantTypeO"
+                            "printedName": "DoreCartoon.CartoonManager.CartoonVariantType",
+                            "usr": "s:11DoreCartoon0B7ManagerC0B11VariantTypeO"
                           }
                         ]
                       }
@@ -99,9 +92,9 @@
                   }
                 ],
                 "declKind": "EnumElement",
-                "usr": "s:13DoreFXCartoon14CartoonManagerC0C11VariantTypeO8StandardyA2EmF",
-                "mangledName": "$s13DoreFXCartoon14CartoonManagerC0C11VariantTypeO8StandardyA2EmF",
-                "moduleName": "DoreFXCartoon"
+                "usr": "s:11DoreCartoon0B7ManagerC0B11VariantTypeO8StandardyA2EmF",
+                "mangledName": "$s11DoreCartoon0B7ManagerC0B11VariantTypeO8StandardyA2EmF",
+                "moduleName": "DoreCartoon"
               },
               {
                 "kind": "Var",
@@ -111,24 +104,24 @@
                   {
                     "kind": "TypeFunc",
                     "name": "Function",
-                    "printedName": "(DoreFXCartoon.CartoonManager.CartoonVariantType.Type) -> DoreFXCartoon.CartoonManager.CartoonVariantType",
+                    "printedName": "(DoreCartoon.CartoonManager.CartoonVariantType.Type) -> DoreCartoon.CartoonManager.CartoonVariantType",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "CartoonVariantType",
-                        "printedName": "DoreFXCartoon.CartoonManager.CartoonVariantType",
-                        "usr": "s:13DoreFXCartoon14CartoonManagerC0C11VariantTypeO"
+                        "printedName": "DoreCartoon.CartoonManager.CartoonVariantType",
+                        "usr": "s:11DoreCartoon0B7ManagerC0B11VariantTypeO"
                       },
                       {
                         "kind": "TypeNominal",
                         "name": "Metatype",
-                        "printedName": "DoreFXCartoon.CartoonManager.CartoonVariantType.Type",
+                        "printedName": "DoreCartoon.CartoonManager.CartoonVariantType.Type",
                         "children": [
                           {
                             "kind": "TypeNominal",
                             "name": "CartoonVariantType",
-                            "printedName": "DoreFXCartoon.CartoonManager.CartoonVariantType",
-                            "usr": "s:13DoreFXCartoon14CartoonManagerC0C11VariantTypeO"
+                            "printedName": "DoreCartoon.CartoonManager.CartoonVariantType",
+                            "usr": "s:11DoreCartoon0B7ManagerC0B11VariantTypeO"
                           }
                         ]
                       }
@@ -136,9 +129,9 @@
                   }
                 ],
                 "declKind": "EnumElement",
-                "usr": "s:13DoreFXCartoon14CartoonManagerC0C11VariantTypeO6MediumyA2EmF",
-                "mangledName": "$s13DoreFXCartoon14CartoonManagerC0C11VariantTypeO6MediumyA2EmF",
-                "moduleName": "DoreFXCartoon"
+                "usr": "s:11DoreCartoon0B7ManagerC0B11VariantTypeO6MediumyA2EmF",
+                "mangledName": "$s11DoreCartoon0B7ManagerC0B11VariantTypeO6MediumyA2EmF",
+                "moduleName": "DoreCartoon"
               },
               {
                 "kind": "Var",
@@ -148,24 +141,24 @@
                   {
                     "kind": "TypeFunc",
                     "name": "Function",
-                    "printedName": "(DoreFXCartoon.CartoonManager.CartoonVariantType.Type) -> DoreFXCartoon.CartoonManager.CartoonVariantType",
+                    "printedName": "(DoreCartoon.CartoonManager.CartoonVariantType.Type) -> DoreCartoon.CartoonManager.CartoonVariantType",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "CartoonVariantType",
-                        "printedName": "DoreFXCartoon.CartoonManager.CartoonVariantType",
-                        "usr": "s:13DoreFXCartoon14CartoonManagerC0C11VariantTypeO"
+                        "printedName": "DoreCartoon.CartoonManager.CartoonVariantType",
+                        "usr": "s:11DoreCartoon0B7ManagerC0B11VariantTypeO"
                       },
                       {
                         "kind": "TypeNominal",
                         "name": "Metatype",
-                        "printedName": "DoreFXCartoon.CartoonManager.CartoonVariantType.Type",
+                        "printedName": "DoreCartoon.CartoonManager.CartoonVariantType.Type",
                         "children": [
                           {
                             "kind": "TypeNominal",
                             "name": "CartoonVariantType",
-                            "printedName": "DoreFXCartoon.CartoonManager.CartoonVariantType",
-                            "usr": "s:13DoreFXCartoon14CartoonManagerC0C11VariantTypeO"
+                            "printedName": "DoreCartoon.CartoonManager.CartoonVariantType",
+                            "usr": "s:11DoreCartoon0B7ManagerC0B11VariantTypeO"
                           }
                         ]
                       }
@@ -173,9 +166,9 @@
                   }
                 ],
                 "declKind": "EnumElement",
-                "usr": "s:13DoreFXCartoon14CartoonManagerC0C11VariantTypeO4HighyA2EmF",
-                "mangledName": "$s13DoreFXCartoon14CartoonManagerC0C11VariantTypeO4HighyA2EmF",
-                "moduleName": "DoreFXCartoon"
+                "usr": "s:11DoreCartoon0B7ManagerC0B11VariantTypeO4HighyA2EmF",
+                "mangledName": "$s11DoreCartoon0B7ManagerC0B11VariantTypeO4HighyA2EmF",
+                "moduleName": "DoreCartoon"
               },
               {
                 "kind": "Constructor",
@@ -185,13 +178,13 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "DoreFXCartoon.CartoonManager.CartoonVariantType?",
+                    "printedName": "DoreCartoon.CartoonManager.CartoonVariantType?",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "CartoonVariantType",
-                        "printedName": "DoreFXCartoon.CartoonManager.CartoonVariantType",
-                        "usr": "s:13DoreFXCartoon14CartoonManagerC0C11VariantTypeO"
+                        "printedName": "DoreCartoon.CartoonManager.CartoonVariantType",
+                        "usr": "s:11DoreCartoon0B7ManagerC0B11VariantTypeO"
                       }
                     ],
                     "usr": "s:Sq"
@@ -204,9 +197,9 @@
                   }
                 ],
                 "declKind": "Constructor",
-                "usr": "s:13DoreFXCartoon14CartoonManagerC0C11VariantTypeO8rawValueAESgSS_tcfc",
-                "mangledName": "$s13DoreFXCartoon14CartoonManagerC0C11VariantTypeO8rawValueAESgSS_tcfc",
-                "moduleName": "DoreFXCartoon",
+                "usr": "s:11DoreCartoon0B7ManagerC0B11VariantTypeO8rawValueAESgSS_tcfc",
+                "mangledName": "$s11DoreCartoon0B7ManagerC0B11VariantTypeO8rawValueAESgSS_tcfc",
+                "moduleName": "DoreCartoon",
                 "implicit": true,
                 "init_kind": "Designated"
               },
@@ -223,9 +216,9 @@
                   }
                 ],
                 "declKind": "Var",
-                "usr": "s:13DoreFXCartoon14CartoonManagerC0C11VariantTypeO8rawValueSSvp",
-                "mangledName": "$s13DoreFXCartoon14CartoonManagerC0C11VariantTypeO8rawValueSSvp",
-                "moduleName": "DoreFXCartoon",
+                "usr": "s:11DoreCartoon0B7ManagerC0B11VariantTypeO8rawValueSSvp",
+                "mangledName": "$s11DoreCartoon0B7ManagerC0B11VariantTypeO8rawValueSSvp",
+                "moduleName": "DoreCartoon",
                 "implicit": true,
                 "accessors": [
                   {
@@ -241,9 +234,9 @@
                       }
                     ],
                     "declKind": "Accessor",
-                    "usr": "s:13DoreFXCartoon14CartoonManagerC0C11VariantTypeO8rawValueSSvg",
-                    "mangledName": "$s13DoreFXCartoon14CartoonManagerC0C11VariantTypeO8rawValueSSvg",
-                    "moduleName": "DoreFXCartoon",
+                    "usr": "s:11DoreCartoon0B7ManagerC0B11VariantTypeO8rawValueSSvg",
+                    "mangledName": "$s11DoreCartoon0B7ManagerC0B11VariantTypeO8rawValueSSvg",
+                    "moduleName": "DoreCartoon",
                     "implicit": true,
                     "accessorKind": "get"
                   }
@@ -251,9 +244,9 @@
               }
             ],
             "declKind": "Enum",
-            "usr": "s:13DoreFXCartoon14CartoonManagerC0C11VariantTypeO",
-            "mangledName": "$s13DoreFXCartoon14CartoonManagerC0C11VariantTypeO",
-            "moduleName": "DoreFXCartoon",
+            "usr": "s:11DoreCartoon0B7ManagerC0B11VariantTypeO",
+            "mangledName": "$s11DoreCartoon0B7ManagerC0B11VariantTypeO",
+            "moduleName": "DoreCartoon",
             "declAttributes": [
               "AccessControl"
             ],
@@ -316,9 +309,9 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:13DoreFXCartoon14CartoonManagerC9init_data6licKeySbSS_tF",
-            "mangledName": "$s13DoreFXCartoon14CartoonManagerC9init_data6licKeySbSS_tF",
-            "moduleName": "DoreFXCartoon",
+            "usr": "s:11DoreCartoon0B7ManagerC9init_data6licKeySbSS_tF",
+            "mangledName": "$s11DoreCartoon0B7ManagerC9init_data6licKeySbSS_tF",
+            "moduleName": "DoreCartoon",
             "declAttributes": [
               "AccessControl"
             ],
@@ -332,13 +325,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "DoreFXCartoon.cartoonOutput?",
+                "printedName": "DoreCartoon.cartoonOutput?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "cartoonOutput",
-                    "printedName": "DoreFXCartoon.cartoonOutput",
-                    "usr": "s:13DoreFXCartoon13cartoonOutputC"
+                    "printedName": "DoreCartoon.cartoonOutput",
+                    "usr": "s:11DoreCartoon13cartoonOutputC"
                   }
                 ],
                 "usr": "s:Sq"
@@ -352,15 +345,15 @@
               {
                 "kind": "TypeNominal",
                 "name": "CartoonVariantType",
-                "printedName": "DoreFXCartoon.CartoonManager.CartoonVariantType",
+                "printedName": "DoreCartoon.CartoonManager.CartoonVariantType",
                 "hasDefaultArg": true,
-                "usr": "s:13DoreFXCartoon14CartoonManagerC0C11VariantTypeO"
+                "usr": "s:11DoreCartoon0B7ManagerC0B11VariantTypeO"
               }
             ],
             "declKind": "Func",
-            "usr": "s:13DoreFXCartoon14CartoonManagerC9run_model7onFrame11variantTypeAA13cartoonOutputCSgSo11CVBufferRefa_AC0c7VariantJ0OtF",
-            "mangledName": "$s13DoreFXCartoon14CartoonManagerC9run_model7onFrame11variantTypeAA13cartoonOutputCSgSo11CVBufferRefa_AC0c7VariantJ0OtF",
-            "moduleName": "DoreFXCartoon",
+            "usr": "s:11DoreCartoon0B7ManagerC9run_model7onFrame11variantTypeAA13cartoonOutputCSgSo11CVBufferRefa_AC0b7VariantI0OtF",
+            "mangledName": "$s11DoreCartoon0B7ManagerC9run_model7onFrame11variantTypeAA13cartoonOutputCSgSo11CVBufferRefa_AC0b7VariantI0OtF",
+            "moduleName": "DoreCartoon",
             "declAttributes": [
               "AccessControl"
             ],
@@ -368,9 +361,9 @@
           }
         ],
         "declKind": "Class",
-        "usr": "s:13DoreFXCartoon14CartoonManagerC",
-        "mangledName": "$s13DoreFXCartoon14CartoonManagerC",
-        "moduleName": "DoreFXCartoon",
+        "usr": "s:11DoreCartoon0B7ManagerC",
+        "mangledName": "$s11DoreCartoon0B7ManagerC",
+        "moduleName": "DoreCartoon",
         "declAttributes": [
           "AccessControl"
         ]
@@ -380,28 +373,28 @@
         "name": "CoreImage",
         "printedName": "CoreImage",
         "declKind": "Import",
-        "moduleName": "DoreFXCartoon"
+        "moduleName": "DoreCartoon"
       },
       {
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
-        "moduleName": "DoreFXCartoon"
+        "moduleName": "DoreCartoon"
       },
       {
         "kind": "Import",
         "name": "CoreML",
         "printedName": "CoreML",
         "declKind": "Import",
-        "moduleName": "DoreFXCartoon"
+        "moduleName": "DoreCartoon"
       },
       {
         "kind": "Import",
         "name": "DoreCoreAI",
         "printedName": "DoreCoreAI",
         "declKind": "Import",
-        "moduleName": "DoreFXCartoon"
+        "moduleName": "DoreCartoon"
       },
       {
         "kind": "TypeDecl",
@@ -429,9 +422,9 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:13DoreFXCartoon13cartoonOutputC12featureNamesShySSGvp",
-            "mangledName": "$s13DoreFXCartoon13cartoonOutputC12featureNamesShySSGvp",
-            "moduleName": "DoreFXCartoon",
+            "usr": "s:11DoreCartoon13cartoonOutputC12featureNamesShySSGvp",
+            "mangledName": "$s11DoreCartoon13cartoonOutputC12featureNamesShySSGvp",
+            "moduleName": "DoreCartoon",
             "objc_name": "featureNames",
             "declAttributes": [
               "ObjC",
@@ -459,9 +452,9 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:13DoreFXCartoon13cartoonOutputC12featureNamesShySSGvg",
-                "mangledName": "$s13DoreFXCartoon13cartoonOutputC12featureNamesShySSGvg",
-                "moduleName": "DoreFXCartoon",
+                "usr": "s:11DoreCartoon13cartoonOutputC12featureNamesShySSGvg",
+                "mangledName": "$s11DoreCartoon13cartoonOutputC12featureNamesShySSGvg",
+                "moduleName": "DoreCartoon",
                 "objc_name": "featureNames",
                 "declAttributes": [
                   "ObjC"
@@ -497,9 +490,9 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:13DoreFXCartoon13cartoonOutputC12featureValue3forSo09MLFeatureF0CSgSS_tF",
-            "mangledName": "$s13DoreFXCartoon13cartoonOutputC12featureValue3forSo09MLFeatureF0CSgSS_tF",
-            "moduleName": "DoreFXCartoon",
+            "usr": "s:11DoreCartoon13cartoonOutputC12featureValue3forSo09MLFeatureF0CSgSS_tF",
+            "mangledName": "$s11DoreCartoon13cartoonOutputC12featureValue3forSo09MLFeatureF0CSgSS_tF",
+            "moduleName": "DoreCartoon",
             "objc_name": "featureValueForName:",
             "declAttributes": [
               "ObjC",
@@ -532,9 +525,9 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:13DoreFXCartoon13cartoonOutputC14GeneratedImage5Width6HeightSo7UIImageCSi_SitF",
-            "mangledName": "$s13DoreFXCartoon13cartoonOutputC14GeneratedImage5Width6HeightSo7UIImageCSi_SitF",
-            "moduleName": "DoreFXCartoon",
+            "usr": "s:11DoreCartoon13cartoonOutputC14GeneratedImage5Width6HeightSo7UIImageCSi_SitF",
+            "mangledName": "$s11DoreCartoon13cartoonOutputC14GeneratedImage5Width6HeightSo7UIImageCSi_SitF",
+            "moduleName": "DoreCartoon",
             "declAttributes": [
               "AccessControl"
             ],
@@ -542,9 +535,9 @@
           }
         ],
         "declKind": "Class",
-        "usr": "s:13DoreFXCartoon13cartoonOutputC",
-        "mangledName": "$s13DoreFXCartoon13cartoonOutputC",
-        "moduleName": "DoreFXCartoon",
+        "usr": "s:11DoreCartoon13cartoonOutputC",
+        "mangledName": "$s11DoreCartoon13cartoonOutputC",
+        "moduleName": "DoreCartoon",
         "declAttributes": [
           "AccessControl"
         ],
@@ -576,9 +569,9 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:13DoreFXCartoon12cartoonInputC12featureNamesShySSGvp",
-            "mangledName": "$s13DoreFXCartoon12cartoonInputC12featureNamesShySSGvp",
-            "moduleName": "DoreFXCartoon",
+            "usr": "s:11DoreCartoon12cartoonInputC12featureNamesShySSGvp",
+            "mangledName": "$s11DoreCartoon12cartoonInputC12featureNamesShySSGvp",
+            "moduleName": "DoreCartoon",
             "objc_name": "featureNames",
             "declAttributes": [
               "ObjC",
@@ -606,9 +599,9 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:13DoreFXCartoon12cartoonInputC12featureNamesShySSGvg",
-                "mangledName": "$s13DoreFXCartoon12cartoonInputC12featureNamesShySSGvg",
-                "moduleName": "DoreFXCartoon",
+                "usr": "s:11DoreCartoon12cartoonInputC12featureNamesShySSGvg",
+                "mangledName": "$s11DoreCartoon12cartoonInputC12featureNamesShySSGvg",
+                "moduleName": "DoreCartoon",
                 "objc_name": "featureNames",
                 "declAttributes": [
                   "ObjC"
@@ -644,9 +637,9 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:13DoreFXCartoon12cartoonInputC12featureValue3forSo09MLFeatureF0CSgSS_tF",
-            "mangledName": "$s13DoreFXCartoon12cartoonInputC12featureValue3forSo09MLFeatureF0CSgSS_tF",
-            "moduleName": "DoreFXCartoon",
+            "usr": "s:11DoreCartoon12cartoonInputC12featureValue3forSo09MLFeatureF0CSgSS_tF",
+            "mangledName": "$s11DoreCartoon12cartoonInputC12featureValue3forSo09MLFeatureF0CSgSS_tF",
+            "moduleName": "DoreCartoon",
             "objc_name": "featureValueForName:",
             "declAttributes": [
               "ObjC",
@@ -656,9 +649,9 @@
           }
         ],
         "declKind": "Class",
-        "usr": "s:13DoreFXCartoon12cartoonInputC",
-        "mangledName": "$s13DoreFXCartoon12cartoonInputC",
-        "moduleName": "DoreFXCartoon",
+        "usr": "s:11DoreCartoon12cartoonInputC",
+        "mangledName": "$s11DoreCartoon12cartoonInputC",
+        "moduleName": "DoreCartoon",
         "declAttributes": [
           "AccessControl"
         ],
@@ -669,7 +662,7 @@
         "name": "Accelerate",
         "printedName": "Accelerate",
         "declKind": "Import",
-        "moduleName": "DoreFXCartoon",
+        "moduleName": "DoreCartoon",
         "declAttributes": [
           "RawDocComment"
         ]
@@ -679,14 +672,7 @@
         "name": "CoreML",
         "printedName": "CoreML",
         "declKind": "Import",
-        "moduleName": "DoreFXCartoon"
-      },
-      {
-        "kind": "Import",
-        "name": "DoreCoreAI",
-        "printedName": "DoreCoreAI",
-        "declKind": "Import",
-        "moduleName": "DoreFXCartoon"
+        "moduleName": "DoreCartoon"
       },
       {
         "kind": "TypeDecl",
@@ -706,9 +692,9 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:13DoreFXCartoon14MultiArrayTypeP05multid4DataE0So07MLMultidgE0VvpZ",
-            "mangledName": "$s13DoreFXCartoon14MultiArrayTypeP05multid4DataE0So07MLMultidgE0VvpZ",
-            "moduleName": "DoreFXCartoon",
+            "usr": "s:11DoreCartoon14MultiArrayTypeP05multid4DataE0So07MLMultidgE0VvpZ",
+            "mangledName": "$s11DoreCartoon14MultiArrayTypeP05multid4DataE0So07MLMultidgE0VvpZ",
+            "moduleName": "DoreCartoon",
             "static": true,
             "protocolReq": true,
             "accessors": [
@@ -725,11 +711,11 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:13DoreFXCartoon14MultiArrayTypeP05multid4DataE0So07MLMultidgE0VvgZ",
-                "mangledName": "$s13DoreFXCartoon14MultiArrayTypeP05multid4DataE0So07MLMultidgE0VvgZ",
-                "moduleName": "DoreFXCartoon",
-                "genericSig": "<τ_0_0 where τ_0_0 : DoreFXCartoon.MultiArrayType>",
-                "sugared_genericSig": "<Self where Self : DoreFXCartoon.MultiArrayType>",
+                "usr": "s:11DoreCartoon14MultiArrayTypeP05multid4DataE0So07MLMultidgE0VvgZ",
+                "mangledName": "$s11DoreCartoon14MultiArrayTypeP05multid4DataE0So07MLMultidgE0VvgZ",
+                "moduleName": "DoreCartoon",
+                "genericSig": "<τ_0_0 where τ_0_0 : DoreCartoon.MultiArrayType>",
+                "sugared_genericSig": "<Self where Self : DoreCartoon.MultiArrayType>",
                 "static": true,
                 "protocolReq": true,
                 "reqNewWitnessTableEntry": true,
@@ -759,11 +745,11 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:13DoreFXCartoon14MultiArrayTypeP1poiyxx_xtFZ",
-            "mangledName": "$s13DoreFXCartoon14MultiArrayTypeP1poiyxx_xtFZ",
-            "moduleName": "DoreFXCartoon",
-            "genericSig": "<τ_0_0 where τ_0_0 : DoreFXCartoon.MultiArrayType>",
-            "sugared_genericSig": "<Self where Self : DoreFXCartoon.MultiArrayType>",
+            "usr": "s:11DoreCartoon14MultiArrayTypeP1poiyxx_xtFZ",
+            "mangledName": "$s11DoreCartoon14MultiArrayTypeP1poiyxx_xtFZ",
+            "moduleName": "DoreCartoon",
+            "genericSig": "<τ_0_0 where τ_0_0 : DoreCartoon.MultiArrayType>",
+            "sugared_genericSig": "<Self where Self : DoreCartoon.MultiArrayType>",
             "static": true,
             "protocolReq": true,
             "reqNewWitnessTableEntry": true,
@@ -791,11 +777,11 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:13DoreFXCartoon14MultiArrayTypeP1soiyxx_xtFZ",
-            "mangledName": "$s13DoreFXCartoon14MultiArrayTypeP1soiyxx_xtFZ",
-            "moduleName": "DoreFXCartoon",
-            "genericSig": "<τ_0_0 where τ_0_0 : DoreFXCartoon.MultiArrayType>",
-            "sugared_genericSig": "<Self where Self : DoreFXCartoon.MultiArrayType>",
+            "usr": "s:11DoreCartoon14MultiArrayTypeP1soiyxx_xtFZ",
+            "mangledName": "$s11DoreCartoon14MultiArrayTypeP1soiyxx_xtFZ",
+            "moduleName": "DoreCartoon",
+            "genericSig": "<τ_0_0 where τ_0_0 : DoreCartoon.MultiArrayType>",
+            "sugared_genericSig": "<Self where Self : DoreCartoon.MultiArrayType>",
             "static": true,
             "protocolReq": true,
             "reqNewWitnessTableEntry": true,
@@ -823,11 +809,11 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:13DoreFXCartoon14MultiArrayTypeP1moiyxx_xtFZ",
-            "mangledName": "$s13DoreFXCartoon14MultiArrayTypeP1moiyxx_xtFZ",
-            "moduleName": "DoreFXCartoon",
-            "genericSig": "<τ_0_0 where τ_0_0 : DoreFXCartoon.MultiArrayType>",
-            "sugared_genericSig": "<Self where Self : DoreFXCartoon.MultiArrayType>",
+            "usr": "s:11DoreCartoon14MultiArrayTypeP1moiyxx_xtFZ",
+            "mangledName": "$s11DoreCartoon14MultiArrayTypeP1moiyxx_xtFZ",
+            "moduleName": "DoreCartoon",
+            "genericSig": "<τ_0_0 where τ_0_0 : DoreCartoon.MultiArrayType>",
+            "sugared_genericSig": "<Self where Self : DoreCartoon.MultiArrayType>",
             "static": true,
             "protocolReq": true,
             "reqNewWitnessTableEntry": true,
@@ -855,11 +841,11 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:13DoreFXCartoon14MultiArrayTypeP1doiyxx_xtFZ",
-            "mangledName": "$s13DoreFXCartoon14MultiArrayTypeP1doiyxx_xtFZ",
-            "moduleName": "DoreFXCartoon",
-            "genericSig": "<τ_0_0 where τ_0_0 : DoreFXCartoon.MultiArrayType>",
-            "sugared_genericSig": "<Self where Self : DoreFXCartoon.MultiArrayType>",
+            "usr": "s:11DoreCartoon14MultiArrayTypeP1doiyxx_xtFZ",
+            "mangledName": "$s11DoreCartoon14MultiArrayTypeP1doiyxx_xtFZ",
+            "moduleName": "DoreCartoon",
+            "genericSig": "<τ_0_0 where τ_0_0 : DoreCartoon.MultiArrayType>",
+            "sugared_genericSig": "<Self where Self : DoreCartoon.MultiArrayType>",
             "static": true,
             "protocolReq": true,
             "reqNewWitnessTableEntry": true,
@@ -883,11 +869,11 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:13DoreFXCartoon14MultiArrayTypePyxSicfc",
-            "mangledName": "$s13DoreFXCartoon14MultiArrayTypePyxSicfc",
-            "moduleName": "DoreFXCartoon",
-            "genericSig": "<τ_0_0 where τ_0_0 : DoreFXCartoon.MultiArrayType>",
-            "sugared_genericSig": "<Self where Self : DoreFXCartoon.MultiArrayType>",
+            "usr": "s:11DoreCartoon14MultiArrayTypePyxSicfc",
+            "mangledName": "$s11DoreCartoon14MultiArrayTypePyxSicfc",
+            "moduleName": "DoreCartoon",
+            "genericSig": "<τ_0_0 where τ_0_0 : DoreCartoon.MultiArrayType>",
+            "sugared_genericSig": "<Self where Self : DoreCartoon.MultiArrayType>",
             "protocolReq": true,
             "reqNewWitnessTableEntry": true,
             "init_kind": "Designated"
@@ -905,9 +891,9 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:13DoreFXCartoon14MultiArrayTypeP7toUInt8s0G0Vvp",
-            "mangledName": "$s13DoreFXCartoon14MultiArrayTypeP7toUInt8s0G0Vvp",
-            "moduleName": "DoreFXCartoon",
+            "usr": "s:11DoreCartoon14MultiArrayTypeP7toUInt8s0G0Vvp",
+            "mangledName": "$s11DoreCartoon14MultiArrayTypeP7toUInt8s0G0Vvp",
+            "moduleName": "DoreCartoon",
             "protocolReq": true,
             "accessors": [
               {
@@ -923,11 +909,11 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:13DoreFXCartoon14MultiArrayTypeP7toUInt8s0G0Vvg",
-                "mangledName": "$s13DoreFXCartoon14MultiArrayTypeP7toUInt8s0G0Vvg",
-                "moduleName": "DoreFXCartoon",
-                "genericSig": "<τ_0_0 where τ_0_0 : DoreFXCartoon.MultiArrayType>",
-                "sugared_genericSig": "<Self where Self : DoreFXCartoon.MultiArrayType>",
+                "usr": "s:11DoreCartoon14MultiArrayTypeP7toUInt8s0G0Vvg",
+                "mangledName": "$s11DoreCartoon14MultiArrayTypeP7toUInt8s0G0Vvg",
+                "moduleName": "DoreCartoon",
+                "genericSig": "<τ_0_0 where τ_0_0 : DoreCartoon.MultiArrayType>",
+                "sugared_genericSig": "<Self where Self : DoreCartoon.MultiArrayType>",
                 "protocolReq": true,
                 "reqNewWitnessTableEntry": true,
                 "accessorKind": "get"
@@ -936,9 +922,9 @@
           }
         ],
         "declKind": "Protocol",
-        "usr": "s:13DoreFXCartoon14MultiArrayTypeP",
-        "mangledName": "$s13DoreFXCartoon14MultiArrayTypeP",
-        "moduleName": "DoreFXCartoon",
+        "usr": "s:11DoreCartoon14MultiArrayTypeP",
+        "mangledName": "$s11DoreCartoon14MultiArrayTypeP",
+        "moduleName": "DoreCartoon",
         "genericSig": "<τ_0_0 : Swift.Comparable>",
         "sugared_genericSig": "<Self : Swift.Comparable>",
         "declAttributes": [
@@ -960,6 +946,43 @@
             "mangledName": "$sSQ"
           }
         ]
+      },
+      {
+        "kind": "Function",
+        "name": "cartclamp",
+        "printedName": "cartclamp(_:min:max:)",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "GenericTypeParam",
+            "printedName": "τ_0_0"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "GenericTypeParam",
+            "printedName": "τ_0_0"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "GenericTypeParam",
+            "printedName": "τ_0_0"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "GenericTypeParam",
+            "printedName": "τ_0_0"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:11DoreCartoon9cartclamp_3min3maxxx_xxtSLRzlF",
+        "mangledName": "$s11DoreCartoon9cartclamp_3min3maxxx_xxtSLRzlF",
+        "moduleName": "DoreCartoon",
+        "genericSig": "<τ_0_0 where τ_0_0 : Swift.Comparable>",
+        "sugared_genericSig": "<T where T : Swift.Comparable>",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "funcSelfKind": "NonMutating"
       },
       {
         "kind": "Function",
@@ -1002,9 +1025,9 @@
           }
         ],
         "declKind": "Func",
-        "usr": "s:13DoreFXCartoon13createCGImage14fromFloatArray3min3maxSo0D3RefaSgSo07MLMultiG0C_S2ftF",
-        "mangledName": "$s13DoreFXCartoon13createCGImage14fromFloatArray3min3maxSo0D3RefaSgSo07MLMultiG0C_S2ftF",
-        "moduleName": "DoreFXCartoon",
+        "usr": "s:11DoreCartoon13createCGImage14fromFloatArray3min3maxSo0D3RefaSgSo07MLMultiG0C_S2ftF",
+        "mangledName": "$s11DoreCartoon13createCGImage14fromFloatArray3min3maxSo0D3RefaSgSo07MLMultiG0C_S2ftF",
+        "moduleName": "DoreCartoon",
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
@@ -1016,7 +1039,7 @@
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
-        "moduleName": "DoreFXCartoon"
+        "moduleName": "DoreCartoon"
       },
       {
         "kind": "Function",
@@ -1059,9 +1082,9 @@
           }
         ],
         "declKind": "Func",
-        "usr": "s:13DoreFXCartoon13createUIImage14fromFloatArray3min3maxSo0D0CSgSo07MLMultiG0C_S2ftF",
-        "mangledName": "$s13DoreFXCartoon13createUIImage14fromFloatArray3min3maxSo0D0CSgSo07MLMultiG0C_S2ftF",
-        "moduleName": "DoreFXCartoon",
+        "usr": "s:11DoreCartoon13createUIImage14fromFloatArray3min3maxSo0D0CSgSo07MLMultiG0C_S2ftF",
+        "mangledName": "$s11DoreCartoon13createUIImage14fromFloatArray3min3maxSo0D0CSgSo07MLMultiG0C_S2ftF",
+        "moduleName": "DoreCartoon",
         "declAttributes": [
           "AccessControl"
         ],
@@ -1085,9 +1108,9 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:Sd13DoreFXCartoonE18multiArrayDataTypeSo07MLMultideF0VvpZ",
-            "mangledName": "$sSd13DoreFXCartoonE18multiArrayDataTypeSo07MLMultideF0VvpZ",
-            "moduleName": "DoreFXCartoon",
+            "usr": "s:Sd11DoreCartoonE18multiArrayDataTypeSo07MLMultideF0VvpZ",
+            "mangledName": "$sSd11DoreCartoonE18multiArrayDataTypeSo07MLMultideF0VvpZ",
+            "moduleName": "DoreCartoon",
             "static": true,
             "declAttributes": [
               "AccessControl"
@@ -1107,9 +1130,9 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:Sd13DoreFXCartoonE18multiArrayDataTypeSo07MLMultideF0VvgZ",
-                "mangledName": "$sSd13DoreFXCartoonE18multiArrayDataTypeSo07MLMultideF0VvgZ",
-                "moduleName": "DoreFXCartoon",
+                "usr": "s:Sd11DoreCartoonE18multiArrayDataTypeSo07MLMultideF0VvgZ",
+                "mangledName": "$sSd11DoreCartoonE18multiArrayDataTypeSo07MLMultideF0VvgZ",
+                "moduleName": "DoreCartoon",
                 "static": true,
                 "isFromExtension": true,
                 "accessorKind": "get"
@@ -1129,9 +1152,9 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:Sd13DoreFXCartoonE7toUInt8s0D0Vvp",
-            "mangledName": "$sSd13DoreFXCartoonE7toUInt8s0D0Vvp",
-            "moduleName": "DoreFXCartoon",
+            "usr": "s:Sd11DoreCartoonE7toUInt8s0D0Vvp",
+            "mangledName": "$sSd11DoreCartoonE7toUInt8s0D0Vvp",
+            "moduleName": "DoreCartoon",
             "declAttributes": [
               "AccessControl"
             ],
@@ -1150,9 +1173,9 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:Sd13DoreFXCartoonE7toUInt8s0D0Vvg",
-                "mangledName": "$sSd13DoreFXCartoonE7toUInt8s0D0Vvg",
-                "moduleName": "DoreFXCartoon",
+                "usr": "s:Sd11DoreCartoonE7toUInt8s0D0Vvg",
+                "mangledName": "$sSd11DoreCartoonE7toUInt8s0D0Vvg",
+                "moduleName": "DoreCartoon",
                 "isFromExtension": true,
                 "accessorKind": "get"
               }
@@ -1172,8 +1195,8 @@
             "kind": "Conformance",
             "name": "MultiArrayType",
             "printedName": "MultiArrayType",
-            "usr": "s:13DoreFXCartoon14MultiArrayTypeP",
-            "mangledName": "$s13DoreFXCartoon14MultiArrayTypeP"
+            "usr": "s:11DoreCartoon14MultiArrayTypeP",
+            "mangledName": "$s11DoreCartoon14MultiArrayTypeP"
           },
           {
             "kind": "Conformance",
@@ -1718,9 +1741,9 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:Sf13DoreFXCartoonE18multiArrayDataTypeSo07MLMultideF0VvpZ",
-            "mangledName": "$sSf13DoreFXCartoonE18multiArrayDataTypeSo07MLMultideF0VvpZ",
-            "moduleName": "DoreFXCartoon",
+            "usr": "s:Sf11DoreCartoonE18multiArrayDataTypeSo07MLMultideF0VvpZ",
+            "mangledName": "$sSf11DoreCartoonE18multiArrayDataTypeSo07MLMultideF0VvpZ",
+            "moduleName": "DoreCartoon",
             "static": true,
             "declAttributes": [
               "AccessControl"
@@ -1740,9 +1763,9 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:Sf13DoreFXCartoonE18multiArrayDataTypeSo07MLMultideF0VvgZ",
-                "mangledName": "$sSf13DoreFXCartoonE18multiArrayDataTypeSo07MLMultideF0VvgZ",
-                "moduleName": "DoreFXCartoon",
+                "usr": "s:Sf11DoreCartoonE18multiArrayDataTypeSo07MLMultideF0VvgZ",
+                "mangledName": "$sSf11DoreCartoonE18multiArrayDataTypeSo07MLMultideF0VvgZ",
+                "moduleName": "DoreCartoon",
                 "static": true,
                 "isFromExtension": true,
                 "accessorKind": "get"
@@ -1762,9 +1785,9 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:Sf13DoreFXCartoonE7toUInt8s0D0Vvp",
-            "mangledName": "$sSf13DoreFXCartoonE7toUInt8s0D0Vvp",
-            "moduleName": "DoreFXCartoon",
+            "usr": "s:Sf11DoreCartoonE7toUInt8s0D0Vvp",
+            "mangledName": "$sSf11DoreCartoonE7toUInt8s0D0Vvp",
+            "moduleName": "DoreCartoon",
             "declAttributes": [
               "AccessControl"
             ],
@@ -1783,9 +1806,9 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:Sf13DoreFXCartoonE7toUInt8s0D0Vvg",
-                "mangledName": "$sSf13DoreFXCartoonE7toUInt8s0D0Vvg",
-                "moduleName": "DoreFXCartoon",
+                "usr": "s:Sf11DoreCartoonE7toUInt8s0D0Vvg",
+                "mangledName": "$sSf11DoreCartoonE7toUInt8s0D0Vvg",
+                "moduleName": "DoreCartoon",
                 "isFromExtension": true,
                 "accessorKind": "get"
               }
@@ -1805,8 +1828,8 @@
             "kind": "Conformance",
             "name": "MultiArrayType",
             "printedName": "MultiArrayType",
-            "usr": "s:13DoreFXCartoon14MultiArrayTypeP",
-            "mangledName": "$s13DoreFXCartoon14MultiArrayTypeP"
+            "usr": "s:11DoreCartoon14MultiArrayTypeP",
+            "mangledName": "$s11DoreCartoon14MultiArrayTypeP"
           },
           {
             "kind": "Conformance",
@@ -2358,9 +2381,9 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:s5Int32V13DoreFXCartoonE18multiArrayDataTypeSo07MLMultiefG0VvpZ",
-            "mangledName": "$ss5Int32V13DoreFXCartoonE18multiArrayDataTypeSo07MLMultiefG0VvpZ",
-            "moduleName": "DoreFXCartoon",
+            "usr": "s:s5Int32V11DoreCartoonE18multiArrayDataTypeSo07MLMultiefG0VvpZ",
+            "mangledName": "$ss5Int32V11DoreCartoonE18multiArrayDataTypeSo07MLMultiefG0VvpZ",
+            "moduleName": "DoreCartoon",
             "static": true,
             "declAttributes": [
               "AccessControl"
@@ -2380,9 +2403,9 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:s5Int32V13DoreFXCartoonE18multiArrayDataTypeSo07MLMultiefG0VvgZ",
-                "mangledName": "$ss5Int32V13DoreFXCartoonE18multiArrayDataTypeSo07MLMultiefG0VvgZ",
-                "moduleName": "DoreFXCartoon",
+                "usr": "s:s5Int32V11DoreCartoonE18multiArrayDataTypeSo07MLMultiefG0VvgZ",
+                "mangledName": "$ss5Int32V11DoreCartoonE18multiArrayDataTypeSo07MLMultiefG0VvgZ",
+                "moduleName": "DoreCartoon",
                 "static": true,
                 "isFromExtension": true,
                 "accessorKind": "get"
@@ -2402,9 +2425,9 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:s5Int32V13DoreFXCartoonE7toUInt8s0E0Vvp",
-            "mangledName": "$ss5Int32V13DoreFXCartoonE7toUInt8s0E0Vvp",
-            "moduleName": "DoreFXCartoon",
+            "usr": "s:s5Int32V11DoreCartoonE7toUInt8s0E0Vvp",
+            "mangledName": "$ss5Int32V11DoreCartoonE7toUInt8s0E0Vvp",
+            "moduleName": "DoreCartoon",
             "declAttributes": [
               "AccessControl"
             ],
@@ -2423,9 +2446,9 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:s5Int32V13DoreFXCartoonE7toUInt8s0E0Vvg",
-                "mangledName": "$ss5Int32V13DoreFXCartoonE7toUInt8s0E0Vvg",
-                "moduleName": "DoreFXCartoon",
+                "usr": "s:s5Int32V11DoreCartoonE7toUInt8s0E0Vvg",
+                "mangledName": "$ss5Int32V11DoreCartoonE7toUInt8s0E0Vvg",
+                "moduleName": "DoreCartoon",
                 "isFromExtension": true,
                 "accessorKind": "get"
               }
@@ -2589,8 +2612,8 @@
             "kind": "Conformance",
             "name": "MultiArrayType",
             "printedName": "MultiArrayType",
-            "usr": "s:13DoreFXCartoon14MultiArrayTypeP",
-            "mangledName": "$s13DoreFXCartoon14MultiArrayTypeP"
+            "usr": "s:11DoreCartoon14MultiArrayTypeP",
+            "mangledName": "$s11DoreCartoon14MultiArrayTypeP"
           },
           {
             "kind": "Conformance",
@@ -2918,9 +2941,9 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:So12MLMultiArrayC13DoreFXCartoonE7cgImage3min3max7channel4axesSo10CGImageRefaSgSd_SdSiSgSi_S2itSgtF",
-            "mangledName": "$sSo12MLMultiArrayC13DoreFXCartoonE7cgImage3min3max7channel4axesSo10CGImageRefaSgSd_SdSiSgSi_S2itSgtF",
-            "moduleName": "DoreFXCartoon",
+            "usr": "s:So12MLMultiArrayC11DoreCartoonE7cgImage3min3max7channel4axesSo10CGImageRefaSgSd_SdSiSgSi_S2itSgtF",
+            "mangledName": "$sSo12MLMultiArrayC11DoreCartoonE7cgImage3min3max7channel4axesSo10CGImageRefaSgSd_SdSiSgSi_S2itSgtF",
+            "moduleName": "DoreCartoon",
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
@@ -3041,11 +3064,11 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:So12MLMultiArrayC13DoreFXCartoonE10toRawBytes3min3max7channel4axesSays5UInt8VG5bytes_Si5widthSi6heightSi8channelstSgx_xSiSgSi_S2itSgtAC05MultiB4TypeRzlF",
-            "mangledName": "$sSo12MLMultiArrayC13DoreFXCartoonE10toRawBytes3min3max7channel4axesSays5UInt8VG5bytes_Si5widthSi6heightSi8channelstSgx_xSiSgSi_S2itSgtAC05MultiB4TypeRzlF",
-            "moduleName": "DoreFXCartoon",
-            "genericSig": "<τ_0_0 where τ_0_0 : DoreFXCartoon.MultiArrayType>",
-            "sugared_genericSig": "<T where T : DoreFXCartoon.MultiArrayType>",
+            "usr": "s:So12MLMultiArrayC11DoreCartoonE10toRawBytes3min3max7channel4axesSays5UInt8VG5bytes_Si5widthSi6heightSi8channelstSgx_xSiSgSi_S2itSgtAC05MultiB4TypeRzlF",
+            "mangledName": "$sSo12MLMultiArrayC11DoreCartoonE10toRawBytes3min3max7channel4axesSays5UInt8VG5bytes_Si5widthSi6heightSi8channelstSgx_xSiSgSi_S2itSgtAC05MultiB4TypeRzlF",
+            "moduleName": "DoreCartoon",
+            "genericSig": "<τ_0_0 where τ_0_0 : DoreCartoon.MultiArrayType>",
+            "sugared_genericSig": "<T where T : DoreCartoon.MultiArrayType>",
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
@@ -3137,9 +3160,9 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:So12MLMultiArrayC13DoreFXCartoonE5image3min3max7channel4axesSo7UIImageCSgSd_SdSiSgSi_S2itSgtF",
-            "mangledName": "$sSo12MLMultiArrayC13DoreFXCartoonE5image3min3max7channel4axesSo7UIImageCSgSd_SdSiSgSi_S2itSgtF",
-            "moduleName": "DoreFXCartoon",
+            "usr": "s:So12MLMultiArrayC11DoreCartoonE5image3min3max7channel4axesSo7UIImageCSgSd_SdSiSgSi_S2itSgtF",
+            "mangledName": "$sSo12MLMultiArrayC11DoreCartoonE5image3min3max7channel4axesSo7UIImageCSgSd_SdSiSgSi_S2itSgtF",
+            "moduleName": "DoreCartoon",
             "declAttributes": [
               "AccessControl"
             ],
@@ -3221,835 +3244,835 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 477,
+      "offset": 464,
       "length": 9,
       "value": "\"cartoon\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 526,
+      "offset": 513,
       "length": 7,
       "value": "\"model\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 600,
+      "offset": 587,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 680,
+      "offset": 667,
       "length": 3,
       "value": "\"S\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 706,
+      "offset": 693,
       "length": 3,
       "value": "\"M\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 730,
+      "offset": 717,
       "length": 3,
       "value": "\"H\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 680,
+      "offset": 667,
       "length": 3,
       "value": "\"S\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 706,
+      "offset": 693,
       "length": 3,
       "value": "\"M\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 730,
+      "offset": 717,
       "length": 3,
       "value": "\"H\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 833,
+      "offset": 820,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 1008,
+      "offset": 995,
       "length": 28,
       "value": "\"DoreAI: model load start..\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 1310,
+      "offset": 1297,
       "length": 11,
       "value": "\"\/data.dat\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 1453,
+      "offset": 1440,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 1646,
+      "offset": 1633,
       "length": 3,
       "value": "\"\/\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1898,
+      "offset": 1885,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 2026,
+      "offset": 2013,
       "length": 54,
       "value": "\"Unable to create directory \""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 2079,
+      "offset": 2066,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2360,
+      "offset": 2347,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 2488,
+      "offset": 2475,
       "length": 54,
       "value": "\"Unable to create directory \""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 2541,
+      "offset": 2528,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2778,
+      "offset": 2765,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 2790,
+      "offset": 2777,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 2855,
+      "offset": 2842,
       "length": 48,
       "value": "\"DoreAI - DoreCartoon: Unable to extract model!\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 3240,
+      "offset": 3227,
       "length": 60,
       "value": "\"Unable to remove model directory \""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 3299,
+      "offset": 3286,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 3373,
+      "offset": 3360,
       "length": 29,
       "value": "\"DoreAI: Load data error...!\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 3518,
+      "offset": 3505,
       "length": 21,
       "value": "\"Model set up failed\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3999,
+      "length": 3,
+      "value": "256"
+    },
+    {
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "IntegerLiteral",
       "offset": 4012,
       "length": 3,
       "value": "256"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4025,
+      "offset": 4036,
       "length": 3,
       "value": "256"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "IntegerLiteral",
       "offset": 4049,
       "length": 3,
       "value": "256"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4062,
+      "offset": 4291,
       "length": 3,
       "value": "256"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "IntegerLiteral",
       "offset": 4304,
       "length": 3,
       "value": "256"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4317,
+      "offset": 4328,
       "length": 3,
       "value": "256"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "IntegerLiteral",
       "offset": 4341,
       "length": 3,
       "value": "256"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4354,
+      "offset": 4494,
       "length": 3,
       "value": "256"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "IntegerLiteral",
       "offset": 4507,
       "length": 3,
       "value": "256"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4520,
+      "offset": 4531,
       "length": 3,
       "value": "256"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "IntegerLiteral",
       "offset": 4544,
       "length": 3,
       "value": "256"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4557,
-      "length": 3,
-      "value": "256"
-    },
-    {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/CartoonManager.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 4693,
+      "offset": 4680,
       "length": 31,
       "value": "\"DoreAI: License not loaded..!\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/ModelDataHandler.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelDataHandler.swift",
       "kind": "StringLiteral",
       "offset": 404,
       "length": 40,
       "value": "\"generator__G_MODEL__out_layer__Tanh__0\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/ModelDataHandler.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelDataHandler.swift",
       "kind": "StringLiteral",
       "offset": 819,
       "length": 40,
       "value": "\"generator__G_MODEL__out_layer__Tanh__0\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/ModelDataHandler.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelDataHandler.swift",
       "kind": "StringLiteral",
       "offset": 1128,
       "length": 40,
       "value": "\"generator__G_MODEL__out_layer__Tanh__0\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/ModelDataHandler.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelDataHandler.swift",
       "kind": "FloatLiteral",
       "offset": 1253,
       "length": 4,
       "value": "-1.1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/ModelDataHandler.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelDataHandler.swift",
       "kind": "FloatLiteral",
       "offset": 1264,
       "length": 3,
       "value": "0.7"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/ModelDataHandler.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelDataHandler.swift",
       "kind": "Array",
       "offset": 1668,
       "length": 11,
       "value": "[\"test__0\"]"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/ModelDataHandler.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelDataHandler.swift",
       "kind": "StringLiteral",
       "offset": 1803,
       "length": 9,
       "value": "\"test__0\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/ModelDataHandler.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelDataHandler.swift",
       "kind": "IntegerLiteral",
       "offset": 2288,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/ModelDataHandler.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelDataHandler.swift",
       "kind": "IntegerLiteral",
       "offset": 2311,
       "length": 3,
       "value": "256"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/ModelDataHandler.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelDataHandler.swift",
       "kind": "IntegerLiteral",
       "offset": 2337,
       "length": 3,
       "value": "256"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/ModelDataHandler.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelDataHandler.swift",
       "kind": "StringLiteral",
       "offset": 2573,
       "length": 38,
       "value": "\"DoreAI: DoreCartoon model loaded...!\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/ModelDataHandler.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelDataHandler.swift",
       "kind": "StringLiteral",
       "offset": 2743,
       "length": 76,
       "value": "\"Failed to create the interpreter with error: \""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/ModelDataHandler.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelDataHandler.swift",
       "kind": "StringLiteral",
       "offset": 2818,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/ModelDataHandler.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelDataHandler.swift",
       "kind": "IntegerLiteral",
       "offset": 3411,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 2256,
+      "offset": 2239,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 2295,
+      "offset": 2278,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "StringLiteral",
-      "offset": 2767,
+      "offset": 2750,
       "length": 44,
       "value": "\"Unsupported data type \""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "StringLiteral",
-      "offset": 2810,
+      "offset": 2793,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 3297,
+      "offset": 3280,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 4358,
+      "offset": 4341,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "StringLiteral",
-      "offset": 4374,
+      "offset": 4357,
       "length": 56,
       "value": "\"Cannot convert MLMultiArray of shape \""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "StringLiteral",
-      "offset": 4420,
+      "offset": 4403,
       "length": 2,
       "value": "\" to image\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 4737,
+      "offset": 4720,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 4797,
+      "offset": 4780,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 4855,
+      "offset": 4838,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "StringLiteral",
-      "offset": 4905,
+      "offset": 4888,
       "length": 41,
       "value": "\"Invalid axes \""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "StringLiteral",
-      "offset": 4926,
+      "offset": 4909,
       "length": 3,
       "value": "\" for shape \""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "StringLiteral",
-      "offset": 4945,
+      "offset": 4928,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 5004,
+      "offset": 4987,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 5084,
+      "offset": 5067,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 5104,
+      "offset": 5087,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 5126,
+      "offset": 5109,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 5242,
+      "offset": 5225,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 5263,
+      "offset": 5246,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 5283,
+      "offset": 5266,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 5728,
+      "offset": 5711,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 5749,
+      "offset": 5732,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 5767,
+      "offset": 5750,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 5791,
+      "offset": 5774,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 5815,
+      "offset": 5798,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 6018,
+      "offset": 6001,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "StringLiteral",
-      "offset": 6063,
+      "offset": 6046,
       "length": 56,
       "value": "\"Channel must be -1, or between 0 and \""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 6116,
+      "offset": 6099,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "StringLiteral",
-      "offset": 6118,
+      "offset": 6101,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 6171,
+      "offset": 6154,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 6197,
+      "offset": 6180,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 6261,
+      "offset": 6244,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 6284,
+      "offset": 6267,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 6310,
+      "offset": 6293,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 6336,
+      "offset": 6319,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 6378,
+      "offset": 6361,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 6397,
+      "offset": 6380,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "StringLiteral",
-      "offset": 6417,
+      "offset": 6400,
       "length": 75,
       "value": "\"Expected channel dimension to have 1, 3, or 4 channels, got \""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "StringLiteral",
-      "offset": 6491,
+      "offset": 6474,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 6579,
+      "offset": 6562,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 6605,
+      "offset": 6588,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 6898,
+      "offset": 6881,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 7181,
+      "offset": 7164,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 7211,
+      "offset": 7194,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 7241,
+      "offset": 7224,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 7355,
+      "offset": 7338,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 7417,
+      "offset": 7404,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 7428,
+      "offset": 7415,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 8234,
+      "offset": 8359,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 8276,
+      "offset": 8401,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 8482,
+      "offset": 8607,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 8523,
+      "offset": 8648,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 8574,
+      "offset": 8699,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 8621,
+      "offset": 8746,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 9276,
+      "offset": 9401,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 9495,
+      "offset": 9620,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 9526,
+      "offset": 9651,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 9562,
+      "offset": 9687,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 10127,
+      "offset": 10252,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 10369,
+      "offset": 10494,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 10612,
+      "offset": 10737,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 10649,
+      "offset": 10774,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 10995,
+      "offset": 11120,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreFXCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
       "kind": "IntegerLiteral",
-      "offset": 11037,
+      "offset": 11162,
       "length": 3,
       "value": "255"
     }

@@ -1,12 +1,12 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
-// swift-module-flags: -target arm64-apple-ios11.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name DoreFXCartoon
+// swift-module-flags: -target x86_64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name DoreCartoon
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import Accelerate
 import CoreImage
 import CoreML
+@_exported import DoreCartoon
 import DoreCoreAI
-@_exported import DoreFXCartoon
 import Foundation
 import Swift
 import UIKit
@@ -25,7 +25,7 @@ public class CartoonManager {
     }
   }
   public func init_data(licKey: Swift.String) -> Swift.Bool
-  public func run_model(onFrame imageBuffer: CoreVideo.CVPixelBuffer, variantType: DoreFXCartoon.CartoonManager.CartoonVariantType = CartoonVariantType.Standard) -> DoreFXCartoon.cartoonOutput?
+  public func run_model(onFrame imageBuffer: CoreVideo.CVPixelBuffer, variantType: DoreCartoon.CartoonManager.CartoonVariantType = CartoonVariantType.Standard) -> DoreCartoon.cartoonOutput?
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class cartoonOutput : CoreML.MLFeatureProvider {
@@ -52,7 +52,7 @@ public protocol MultiArrayType : Swift.Comparable {
   init(_: Swift.Int)
   var toUInt8: Swift.UInt8 { get }
 }
-extension Swift.Double : DoreFXCartoon.MultiArrayType {
+extension Swift.Double : DoreCartoon.MultiArrayType {
   public static var multiArrayDataType: CoreML.MLMultiArrayDataType {
     get
   }
@@ -60,7 +60,7 @@ extension Swift.Double : DoreFXCartoon.MultiArrayType {
     get
   }
 }
-extension Swift.Float : DoreFXCartoon.MultiArrayType {
+extension Swift.Float : DoreCartoon.MultiArrayType {
   public static var multiArrayDataType: CoreML.MLMultiArrayDataType {
     get
   }
@@ -68,7 +68,7 @@ extension Swift.Float : DoreFXCartoon.MultiArrayType {
     get
   }
 }
-extension Swift.Int32 : DoreFXCartoon.MultiArrayType {
+extension Swift.Int32 : DoreCartoon.MultiArrayType {
   public static var multiArrayDataType: CoreML.MLMultiArrayDataType {
     get
   }
@@ -78,13 +78,14 @@ extension Swift.Int32 : DoreFXCartoon.MultiArrayType {
 }
 extension CoreML.MLMultiArray {
   public func cgImage(min: Swift.Double = 0, max: Swift.Double = 255, channel: Swift.Int? = nil, axes: (Swift.Int, Swift.Int, Swift.Int)? = nil) -> CoreGraphics.CGImage?
-  public func toRawBytes<T>(min: T, max: T, channel: Swift.Int? = nil, axes: (Swift.Int, Swift.Int, Swift.Int)? = nil) -> (bytes: [Swift.UInt8], width: Swift.Int, height: Swift.Int, channels: Swift.Int)? where T : DoreFXCartoon.MultiArrayType
+  public func toRawBytes<T>(min: T, max: T, channel: Swift.Int? = nil, axes: (Swift.Int, Swift.Int, Swift.Int)? = nil) -> (bytes: [Swift.UInt8], width: Swift.Int, height: Swift.Int, channels: Swift.Int)? where T : DoreCartoon.MultiArrayType
 }
+public func cartclamp<T>(_ x: T, min: T, max: T) -> T where T : Swift.Comparable
 public func createCGImage(fromFloatArray features: CoreML.MLMultiArray, min: Swift.Float = 0, max: Swift.Float = 255) -> CoreGraphics.CGImage?
 extension CoreML.MLMultiArray {
   public func image(min: Swift.Double = 0, max: Swift.Double = 255, channel: Swift.Int? = nil, axes: (Swift.Int, Swift.Int, Swift.Int)? = nil) -> UIKit.UIImage?
 }
 public func createUIImage(fromFloatArray features: CoreML.MLMultiArray, min: Swift.Float = 0, max: Swift.Float = 255) -> UIKit.UIImage?
-extension DoreFXCartoon.CartoonManager.CartoonVariantType : Swift.Equatable {}
-extension DoreFXCartoon.CartoonManager.CartoonVariantType : Swift.Hashable {}
-extension DoreFXCartoon.CartoonManager.CartoonVariantType : Swift.RawRepresentable {}
+extension DoreCartoon.CartoonManager.CartoonVariantType : Swift.Equatable {}
+extension DoreCartoon.CartoonManager.CartoonVariantType : Swift.Hashable {}
+extension DoreCartoon.CartoonManager.CartoonVariantType : Swift.RawRepresentable {}
