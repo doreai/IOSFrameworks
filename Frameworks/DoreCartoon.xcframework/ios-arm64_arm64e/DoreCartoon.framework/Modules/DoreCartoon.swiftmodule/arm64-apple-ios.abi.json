@@ -29,6 +29,13 @@
         "moduleName": "DoreCartoon"
       },
       {
+        "kind": "Import",
+        "name": "CoreML",
+        "printedName": "CoreML",
+        "declKind": "Import",
+        "moduleName": "DoreCartoon"
+      },
+      {
         "kind": "TypeDecl",
         "name": "CartoonManager",
         "printedName": "CartoonManager",
@@ -3246,280 +3253,273 @@
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 464,
+      "offset": 477,
       "length": 9,
       "value": "\"cartoon\""
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 513,
+      "offset": 526,
       "length": 7,
       "value": "\"model\""
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 587,
+      "offset": 600,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 667,
+      "offset": 680,
       "length": 3,
       "value": "\"S\""
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 693,
+      "offset": 706,
       "length": 3,
       "value": "\"M\""
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 717,
+      "offset": 730,
       "length": 3,
       "value": "\"H\""
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 667,
+      "offset": 680,
       "length": 3,
       "value": "\"S\""
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 693,
+      "offset": 706,
       "length": 3,
       "value": "\"M\""
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 717,
+      "offset": 730,
       "length": 3,
       "value": "\"H\""
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 820,
+      "offset": 833,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 995,
+      "offset": 1008,
       "length": 28,
       "value": "\"DoreAI: model load start..\""
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 1297,
+      "offset": 1305,
       "length": 11,
       "value": "\"\/data.dat\""
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 1440,
+      "offset": 1448,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 1633,
+      "offset": 1641,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1885,
+      "offset": 1893,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 2013,
+      "offset": 2021,
       "length": 54,
       "value": "\"Unable to create directory \""
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 2066,
+      "offset": 2074,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2347,
+      "offset": 2355,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 2475,
+      "offset": 2483,
       "length": 54,
       "value": "\"Unable to create directory \""
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 2528,
+      "offset": 2536,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2765,
+      "offset": 2773,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 2777,
+      "offset": 2785,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 2842,
+      "offset": 2850,
       "length": 48,
       "value": "\"DoreAI - DoreCartoon: Unable to extract model!\""
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 3227,
+      "offset": 3235,
       "length": 60,
       "value": "\"Unable to remove model directory \""
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 3286,
+      "offset": 3294,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 3360,
-      "length": 29,
-      "value": "\"DoreAI: Load data error...!\""
-    },
-    {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3505,
+      "offset": 3438,
       "length": 21,
       "value": "\"Model set up failed\""
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 3999,
+      "offset": 3932,
       "length": 3,
       "value": "256"
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4012,
+      "offset": 3945,
       "length": 3,
       "value": "256"
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4036,
+      "offset": 3969,
       "length": 3,
       "value": "256"
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4049,
+      "offset": 3982,
       "length": 3,
       "value": "256"
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4291,
+      "offset": 4224,
       "length": 3,
       "value": "256"
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4304,
+      "offset": 4237,
       "length": 3,
       "value": "256"
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4328,
+      "offset": 4261,
       "length": 3,
       "value": "256"
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4341,
+      "offset": 4274,
       "length": 3,
       "value": "256"
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4494,
+      "offset": 4427,
       "length": 3,
       "value": "256"
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4507,
+      "offset": 4440,
       "length": 3,
       "value": "256"
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4531,
+      "offset": 4464,
       "length": 3,
       "value": "256"
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4544,
+      "offset": 4477,
       "length": 3,
       "value": "256"
     },
     {
       "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/CartoonManager.swift",
       "kind": "StringLiteral",
-      "offset": 4680,
+      "offset": 4613,
       "length": 31,
       "value": "\"DoreAI: License not loaded..!\""
     },
@@ -3622,457 +3622,471 @@
       "value": "4"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 2239,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 2278,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "StringLiteral",
-      "offset": 2750,
+      "offset": 2747,
       "length": 44,
       "value": "\"Unsupported data type \""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "StringLiteral",
-      "offset": 2793,
+      "offset": 2790,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 2832,
+      "length": 44,
+      "value": "\"Unsupported data type \""
+    },
+    {
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 2875,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 3280,
+      "offset": 3362,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 4341,
+      "offset": 4423,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "StringLiteral",
-      "offset": 4357,
+      "offset": 4439,
       "length": 56,
       "value": "\"Cannot convert MLMultiArray of shape \""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "StringLiteral",
-      "offset": 4403,
+      "offset": 4485,
       "length": 2,
       "value": "\" to image\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 4720,
+      "offset": 4802,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 4780,
+      "offset": 4862,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 4838,
+      "offset": 4920,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "StringLiteral",
-      "offset": 4888,
+      "offset": 4970,
       "length": 41,
       "value": "\"Invalid axes \""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "StringLiteral",
-      "offset": 4909,
+      "offset": 4991,
       "length": 3,
       "value": "\" for shape \""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "StringLiteral",
-      "offset": 4928,
+      "offset": 5010,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 4987,
+      "offset": 5069,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 5067,
+      "offset": 5149,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 5087,
+      "offset": 5169,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 5109,
+      "offset": 5191,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 5225,
+      "offset": 5307,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 5246,
+      "offset": 5328,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 5266,
+      "offset": 5348,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 5711,
+      "offset": 5793,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 5732,
+      "offset": 5814,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 5750,
+      "offset": 5832,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 5774,
+      "offset": 5856,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 5798,
+      "offset": 5880,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 6001,
+      "offset": 6083,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "StringLiteral",
-      "offset": 6046,
+      "offset": 6128,
       "length": 56,
       "value": "\"Channel must be -1, or between 0 and \""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 6099,
+      "offset": 6181,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "StringLiteral",
-      "offset": 6101,
+      "offset": 6183,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 6154,
+      "offset": 6236,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 6180,
+      "offset": 6262,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 6244,
+      "offset": 6326,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 6267,
+      "offset": 6349,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 6293,
+      "offset": 6375,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 6319,
+      "offset": 6401,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 6361,
+      "offset": 6443,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 6380,
+      "offset": 6462,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "StringLiteral",
-      "offset": 6400,
+      "offset": 6482,
       "length": 75,
       "value": "\"Expected channel dimension to have 1, 3, or 4 channels, got \""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "StringLiteral",
-      "offset": 6474,
+      "offset": 6556,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 6562,
+      "offset": 6644,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 6588,
+      "offset": 6670,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 6881,
+      "offset": 6963,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 7164,
+      "offset": 7246,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 7194,
+      "offset": 7276,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 7224,
+      "offset": 7306,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 7338,
+      "offset": 7420,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 7404,
+      "offset": 7486,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 7415,
+      "offset": 7497,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 8359,
+      "offset": 8441,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 8401,
+      "offset": 8483,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 8607,
+      "offset": 8689,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 8648,
+      "offset": 8730,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 8699,
+      "offset": 8781,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 8746,
+      "offset": 8828,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 9401,
+      "offset": 9483,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 9620,
+      "offset": 9702,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 9651,
+      "offset": 9733,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 9687,
+      "offset": 9769,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 10252,
+      "offset": 10334,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 10494,
+      "offset": 10576,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 10737,
+      "offset": 10819,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 10774,
+      "offset": 10856,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 11120,
+      "offset": 11202,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/MLMultiArray+Image.swift",
+      "filePath": "\/Users\/sam\/SamData\/SamAI\/libproject\/IOS\/segmentDetect\/dorelib\/DoreCartoon\/controller\/ModelHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 11162,
+      "offset": 11244,
       "length": 3,
       "value": "255"
     }
